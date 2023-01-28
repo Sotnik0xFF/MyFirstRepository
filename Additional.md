@@ -1,1 +1,1 @@
-### Additional
+﻿Изменен в ветке Master
